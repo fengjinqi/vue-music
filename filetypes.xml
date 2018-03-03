@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="IndePage.vue" type="PLAIN_TEXT" />
+      <mapping pattern="logFrom.vue" type="PLAIN_TEXT" />
+      <mapping pattern="89.vue" type="TypeScript JSX" />
+      <mapping pattern="IndePage" type="Vue.js" />
+      <mapping pattern="43.vue" type="Vue.js" />
+    </extensionMap>
+  </component>
+</application>
